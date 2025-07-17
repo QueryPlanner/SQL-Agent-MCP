@@ -1,0 +1,20 @@
+# requirements.txt
+
+# Core MCP and Web Server
+fastmcp
+uvicorn
+
+# LangChain and LangGraph
+langchain
+langgraph
+langchain-community
+
+# Google Generative AI integration
+langchain-google-genai
+
+# Database Connector for PostgreSQL
+sqlalchemy
+psycopg2-binary
+
+# Environment variable management
+python-dotenv
