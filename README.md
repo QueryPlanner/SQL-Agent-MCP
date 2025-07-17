@@ -11,7 +11,7 @@ This project provides an agent-based interface for interacting with SQL database
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/QueryPlanner/SQL-Agent-MCP.git
    ```
 2. Install dependencies:
    ```bash
